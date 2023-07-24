@@ -17,3 +17,7 @@
 $ git add .
 Adding changes made to your files to the staging area in a Git repository.
 ```
+
+- [ ] Turn on GitHub Pages
+- [x] Outline my portfolio
+- [ ] Introduce myself to the world
