@@ -8,4 +8,12 @@
 
 <!-- I created 4 headers to this file -->
 
+
+<!-- Adding an Image to this file -->
 ![Image of Mona-the-rivetertocat](https://octodex.github.com/images/mona-the-rivetertocat.png)
+
+<!-- Adding code to this file -->
+```
+$ git add .
+Adding changes made to your files to the staging area in a Git repository.
+```
